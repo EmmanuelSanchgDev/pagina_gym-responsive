@@ -1,0 +1,26 @@
+.header {
+    position: relative;
+}
+.image {
+    width: 50%;
+    padding: 1rem;
+}
+.text1 {
+    display: flex;
+    width: 50vw;
+    align-items: center;
+}
+.formx label {
+    margin: 1rem;
+}
+.formx h2 {
+    width: 100%;
+    display: inherit;
+    justify-content: center;
+}
+.formx__coment {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}

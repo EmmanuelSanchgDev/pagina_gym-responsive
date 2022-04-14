@@ -64,7 +64,7 @@ body {
     color: white;
 }
 
-@media (min-width: 600px) {
+/* @media (min-width: 600px) {
     .header {
         position: relative;
     }
@@ -91,8 +91,8 @@ body {
         width: 100%;
         align-items: center;
     }
-}
-@media (min-width: 800px) {
+} */
+/* @media (min-width: 800px) {
     .text1 {
         height: 300px;
     }
@@ -107,8 +107,8 @@ body {
         width: 50%;
         order: 1;
     }
-}
-@media (min-width: 1300px) {
+} */
+/* @media (min-width: 1300px) {
     .formx {
         order: 0;
         width: 100%;
@@ -118,7 +118,7 @@ body {
     }
     .formx label {
         margin: 0;
-        /* margin-left: 1rem; */
+        margin-left: 1rem;
     }
     .formx__coment {
         flex-direction: row;
@@ -129,4 +129,4 @@ body {
         width: 100%;
         order: 0;
     }
-}
+} */
